@@ -1,4 +1,4 @@
-# 🛡️ Airtdrops-Checker
+# 🛡️ Airdrops-Checker
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey?style=for-the-badge)
@@ -131,3 +131,4 @@ solana==0.30.2
 solders==0.18.0
 
 auto-py-to-exe==2.41.0
+
