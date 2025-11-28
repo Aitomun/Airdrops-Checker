@@ -1,4 +1,4 @@
-# 🛡️ Crypto Universal Checker (V3)
+# 🛡️ Airtdrops-Checker
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey?style=for-the-badge)
@@ -29,7 +29,7 @@ This tool automatically detects **EVM (Ethereum, Base, Arb)** and **Solana** add
 2.  A free **Moralis API Key** (See "Configuration" below).
 
 ### Step 1: Clone or Download
-Download this project to a folder on your computer (e.g., `Documents/Crypto_Scripts`).
+Download this project to a folder on your computer (e.g., `Documents/Airdrops-Checker`).
 
 ### Step 2: Install Dependencies
 Open your terminal (Command Prompt or VS Code) in the project folder and run:
@@ -94,9 +94,8 @@ The output file will be in the output folder. You can now send this .exe and the
 📂 Project Structure
 Your folder should look like this:
 
-Plaintext
 
-Crypto_Scripts/
+Airdrops-Checker/
 │
 ├── checker.py             # The main script
 ├── wallets.txt            # Your list of addresses
@@ -130,4 +129,5 @@ colorama==0.4.6
 web3==6.11.1
 solana==0.30.2
 solders==0.18.0
+
 auto-py-to-exe==2.41.0
