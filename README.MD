@@ -116,12 +116,11 @@ This tool reads public blockchain data only; it cannot access private keys or fu
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-Built by [Your Name]
+Built by David Aitomun 
 
 Appendix: Requirements.txt
 If you need to create the requirements.txt file, copy the content below:
 
-Plaintext
 
 moralis==0.1.31
 pandas==2.1.4
@@ -131,4 +130,5 @@ solana==0.30.2
 solders==0.18.0
 
 auto-py-to-exe==2.41.0
+
 
